@@ -1,0 +1,14 @@
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\Prof. Daniel\Aula C#\ConsumerCatFact\bin\Debug\net10.0\ConsumerCatFact.exe
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\Prof. Daniel\Aula C#\ConsumerCatFact\bin\Debug\net10.0\ConsumerCatFact.deps.json
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\Prof. Daniel\Aula C#\ConsumerCatFact\bin\Debug\net10.0\ConsumerCatFact.runtimeconfig.json
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\Prof. Daniel\Aula C#\ConsumerCatFact\bin\Debug\net10.0\ConsumerCatFact.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\Prof. Daniel\Aula C#\ConsumerCatFact\bin\Debug\net10.0\ConsumerCatFact.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\Prof. Daniel\Aula C#\ConsumerCatFact\obj\Debug\net10.0\ConsumerCatFact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\Prof. Daniel\Aula C#\ConsumerCatFact\obj\Debug\net10.0\ConsumerCatFact.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\Prof. Daniel\Aula C#\ConsumerCatFact\obj\Debug\net10.0\ConsumerCatFact.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\Prof. Daniel\Aula C#\ConsumerCatFact\obj\Debug\net10.0\ConsumerCatFact.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\Prof. Daniel\Aula C#\ConsumerCatFact\obj\Debug\net10.0\ConsumerCatFact.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\Prof. Daniel\Aula C#\ConsumerCatFact\obj\Debug\net10.0\refint\ConsumerCatFact.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\Prof. Daniel\Aula C#\ConsumerCatFact\obj\Debug\net10.0\ConsumerCatFact.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\Prof. Daniel\Aula C#\ConsumerCatFact\obj\Debug\net10.0\ConsumerCatFact.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\Prof. Daniel\Aula C#\ConsumerCatFact\obj\Debug\net10.0\ref\ConsumerCatFact.dll
